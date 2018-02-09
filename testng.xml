@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Login to the Application with Valid Credentials">
+  <classes>
+    <class name="org.ejagruti.testcases.TESTCASE1"></class>
+    <class name="org.ejagruti.testcases.TESTCASE2"></class>
+    <!-- <class name="org.ejagruti.testcases.TESTCASE3"></class> -->   
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 16 15:20:20 IST 2017
+log4j-api-2.8.2.jar>=
+log4j-api-2.8.2.jar>central=
+log4j-api-2.8.2.pom>central=

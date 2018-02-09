@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 21 21:10:54 IST 2017
+snakeyaml-1.17.jar>=
+snakeyaml-1.17.jar>central=
+snakeyaml-1.17.pom>central=

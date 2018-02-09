@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44267" started-at="2018-01-02T06:08:10Z" finished-at="2018-01-02T06:08:54Z">
+    <groups>
+    </groups>
+    <test name="Login to the Application with Valid Credentials" duration-ms="44267" started-at="2018-01-02T06:08:10Z" finished-at="2018-01-02T06:08:54Z">
+      <class name="org.ejagruti.testcases.TESTCASE2">
+        <test-method status="PASS" signature="TESTCASE2()[pri:0, instance:org.ejagruti.testcases.TESTCASE2@39aeed2f]" name="TESTCASE2" duration-ms="14776" started-at="2018-01-02T11:38:39Z" finished-at="2018-01-02T11:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TESTCASE2 -->
+      </class> <!-- org.ejagruti.testcases.TESTCASE2 -->
+      <class name="org.ejagruti.testcases.TESTCASE1">
+        <test-method status="PASS" signature="TESTCASE1()[pri:0, instance:org.ejagruti.testcases.TESTCASE1@4cc0edeb]" name="TESTCASE1" duration-ms="29438" started-at="2018-01-02T11:38:10Z" finished-at="2018-01-02T11:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TESTCASE1 -->
+      </class> <!-- org.ejagruti.testcases.TESTCASE1 -->
+    </test> <!-- Login to the Application with Valid Credentials -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]">
+  <parameter name="CreationDate" value="01/07/2017"/>
+  <parameter name="TestcaseID" value="1"/>
+  <parameter name="Owner" value="Santosh"/>
+  <parameter name="password" value=""/>
+  <parameter name="Description" value="Description001"/>
+  <parameter name="ReqID" value="US-GMPS-S1R1 "/>
+  <parameter name="URL" value="http://192.168.0.222:1979/investcorp1/mainpage/index.html"/>
+  <parameter name="username" value=""/>
+  <test name="Verify Client login functionality by passing valid username and password(failed)(failed)">
+    <parameter name="CreationDate" value="01/07/2017"/>
+    <parameter name="TestcaseID" value="1"/>
+    <parameter name="Owner" value="Santosh"/>
+    <parameter name="password" value=""/>
+    <parameter name="Description" value="Description001"/>
+    <parameter name="ReqID" value="US-GMPS-S1R1 "/>
+    <parameter name="URL" value="http://192.168.0.222:1979/investcorp1/mainpage/index.html"/>
+    <parameter name="username" value=""/>
+    <classes>
+      <class name="org.ejagruti.investcorp.LaunchApp">
+        <methods>
+          <include name="Launch" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- org.ejagruti.investcorp.LaunchApp -->
+    </classes>
+  </test> <!-- Verify Client login functionality by passing valid username and password(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

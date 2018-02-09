@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Login to the Application with Valid Credentials(failed)">
+    <classes>
+      <class name="org.ejagruti.testcases.TESTCASE3">
+        <methods>
+          <include name="TESTCASE3"/>
+        </methods>
+      </class> <!-- org.ejagruti.testcases.TESTCASE3 -->
+    </classes>
+  </test> <!-- Login to the Application with Valid Credentials(failed) -->
+</suite> <!-- Failed suite [Suite] -->
